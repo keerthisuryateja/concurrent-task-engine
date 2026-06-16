@@ -47,3 +47,11 @@ This project showcases low-level multi-threading infrastructure patterns in C++.
    g++ -std=c++17 Engine.cpp -o task_engine -lpthread -lhiredis
    ./task_engine
    ```
+## Output Screenshots
+
+task_engine
+<img width="1406" height="840" alt="Screenshot 2026-06-16 134806" src="https://github.com/user-attachments/assets/13f00f74-9e3c-421c-af16-3ecddccbdfa1" />
+
+dashboard.py
+<img width="1020" height="128" alt="Screenshot 2026-06-16 134830" src="https://github.com/user-attachments/assets/71ee53c0-0a28-41c7-8543-2e59b45c9435" />
+
